@@ -1,2 +1,2 @@
 # quiz
-An interactive quiz made in javascript
+Interactive quiz made in javascript
